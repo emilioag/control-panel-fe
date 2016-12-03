@@ -1,0 +1,47 @@
+/*
+ * Hello styles
+ * ========================================================================== */
+.title {
+  font-family: Indie Flower;
+  font-weight: 100;
+  font-size: 2em;
+  padding: .5em 2em 0 2em;
+  border-bottom: solid .1em;
+}
+.kpi-panel {
+    background-color: #DFE2DB;
+    padding-left: 1em;
+    padding-right: 1em;
+
+}
+.kpi {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    min-height: 60px;
+    border-right: solid 1px;
+    font-family: Indie Flower;
+}
+
+.kpi .chart {
+    min-height: 60px;
+    font-size: 2em;
+}
+.kpi .value {
+    min-height: 60px;
+    font-size: 3em;
+    /* text-shadow: 0px -2px 0px #333, 0px 2px 3px #666;*/
+}
+
+.echarts {
+  background-color: aliceblue;
+  border-left: solid 1em #DFE2DB;
+  border-right: solid 1em #DFE2DB;
+  height: 350px;
+  opacity: 0.9;
+}
+
+.chart-row {
+  background-color: #DFE2DB;
+  padding: 1em;
+
+}
